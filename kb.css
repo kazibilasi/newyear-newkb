@@ -1,157 +1,151 @@
 * {
-          margin-top: 0px;
-          margin-right: 30px;
-          margin-left: 30px;
-          font-family: 'Lustria', serif;
-          font-family: 'Open Sans', sans-serif;
+     margin-top: 0px;
+     margin-right: 30px;
+     margin-left: 30px;
+     font-family: 'Lustria', serif;
+     font-family: 'Open Sans', sans-serif;
 }
 
 header {
 
-          text-align: right;
-          position: relative;
-          background-image: url(banner/banner3.png);
-          background-repeat: no-repeat;
-          background-size: cover;
-          height: 100vh;
+     text-align: right;
+     position: relative;
+     background-image: url(banner/banner3.png);
+     background-repeat: no-repeat;
+     background-size: cover;
+     height: 100vh;
 
 
 
 }
 
 .first1 {
-          position: relative;
-          top: 350px;
-          color: white;
-          /* height: 400px; */
-          width: 650px;
-          left: 1000px;
+     position: relative;
+     top: 350px;
+     color: white;
+     /* height: 400px; */
+     width: 650px;
+     left: 1000px;
 }
 
 .paragraph1 {
-          word-wrap: normal;
+     word-wrap: normal;
 }
-.btn{
-          padding: 10px 15px;
-          border-radius: 5px;
-          background-color: white;
-          border: none; 
-          font-size: 20px;
-          font-weight:bold;
+
+.btn {
+     padding: 10px 15px;
+     border-radius: 5px;
+     background-color: white;
+     border: none;
+     font-size: 20px;
+     font-weight: bold;
 }
 
 
 
 /* failure option */
 .failures {
-          display: flex;
-          margin-top: 130px;
+     display: flex;
+     margin-top: 130px;
 
 
 }
 
 .paragraph2 {
-          font-size: 25px;
+     font-size: 25px;
 }
 
 .head-line {
-          font-size: 35px;
+     font-size: 35px;
 }
 
 .failures-story {
-          position: relative;
-          top: 250px;
-          left: 100px;
+     position: relative;
+     top: 250px;
+     left: 100px;
 }
 
 /* extra section */
 .extra-section {
-          margin-top: 130px;
-          display: flex;
-          background-repeat: no-repeat;
-          background-size: cover;
-          right: 80%;
+     margin-top: 130px;
+     display: flex;
+     background-repeat: no-repeat;
+     background-size: cover;
+     right: 80%;
 }
 
 .extra-word {
-          margin-top: 100px;
+     margin-top: 100px;
 
 }
 
 .extra-image {
-          height: 400px;
-          border-radius: 10px;
+     height: 400px;
+     border-radius: 10px;
 
 }
 
 /* plans */
 .plans {
-          display: flex;
-          margin-top: 130px;
-          position: relative;
-          left: 20%;
+     display: flex;
+     margin-top: 130px;
+     position: relative;
+     left: 20%;
 
 }
 
 /* tough one */
 .tough {
-          background-image: linear-gradient(to right, rgb(18, 102, 172),#80808017 ), url(images/watch.png);
-          margin-top: 130px;
-          background-repeat: no-repeat;
-          background-size: cover;
-          position: relative;
-          height: 350px;
-          width: 1400px;
+     background-image: linear-gradient(to right, rgb(18, 102, 172), #80808017), url(images/watch.png);
+     margin-top: 130px;
+     background-repeat: no-repeat;
+     background-size: cover;
+     position: relative;
+     height: 350px;
+     width: 1400px;
 
-          left: 7%;
-          /* background: linear-gradient( url(images/watch.png); */
-          /* background: linear-gradient( blue,blue),url(images/watch.png) ; */
+     left: 7%;
+     /* background: linear-gradient( url(images/watch.png); */
+     /* background: linear-gradient( blue,blue),url(images/watch.png) ; */
 }
 
 .head-line2 {
-          font-size: 35px;
-          color: white;
+     font-size: 35px;
+     color: white;
 }
 
 .tough-p {
-          position: relative;
-          top: 100px;
-          color: white;
+     position: relative;
+     top: 100px;
+     color: white;
 }
+
 .btn1 {
-          padding: 10px 15px;
-          border-radius: 5px;
-          background-color: white;
-          border: none;
-          color: rgb(23, 150, 235);
-          font-size:25px ;
-          
+     padding: 10px 15px;
+     border-radius: 5px;
+     background-color: white;
+     border: none;
+     color: rgb(23, 150, 235);
+     font-size: 25px;
+
 }
 
 /* footer */
 .end {
-          display: flex;
-          margin-top: 130px;
-          background-color: black;
-          color: white;
-          padding: 20px;
+     display: flex;
+     margin-top: 130px;
+     background-color: black;
+     color: white;
+     padding: 20px;
 }
 
 .end-button {
-          margin-top: 30px;
-          padding: 10px 15px;
-          border-radius: 5px;
-          color: white;
-          background-color: rgb(0, 162, 255);
-          position: relative;
-          right: 18%;
-          font-weight: bold;
-}
-
-
-.icon-img{
-          
-     padding: 0%;
-     gap: 0%;
-     right: 20%;
+     margin-top: 30px;
+     padding: 10px 15px;
+     border-radius: 5px;
+     color: white;
+     background-color: rgb(0, 162, 255);
+     position: relative;
+     right: 18%;
+     font-weight: bold;
 }
