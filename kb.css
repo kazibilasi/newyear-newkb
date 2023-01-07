@@ -65,6 +65,13 @@ header {
      left: 100px;
 }
 
+.check-mark{
+     height: 20px;
+     width: 20px;
+     
+}
+
+
 /* extra section */
 .extra-section {
      margin-top: 130px;
@@ -138,9 +145,10 @@ header {
      color: white;
      padding: 20px;
 }
-.email{
+
+.email {
      padding: 10px;
-    
+
 }
 
 .end-button {
